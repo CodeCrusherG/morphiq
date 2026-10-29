@@ -36,7 +36,7 @@ This repository holds everything in one place: the full codebase (backend + web 
 Code/
 .gitignore
 
-* 💻 Code: Backend (FastAPI), Orchestrator, Website (React), Mobile App (React Native), model pipelines, documentation
+* 🎯 Code: Backend (FastAPI), Orchestrator, Website (React), Mobile App (React Native), model pipelines, documentation
 
 ⸻
 
